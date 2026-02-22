@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "大人は信じてくれない",
+  "base_artist": "欅坂46",
+  "createdAt": "2026-02-22T18:57:40.944649Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大人は信じてくれない",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/01_大人は信じてくれない_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Otona wa Shinjitekurenai (大人は信じてくれない)",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/02_Otona_wa_Shinjitekurenai_(大人は信じてくれない)_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Otona wa Shinjitekurenai (大人は信じてくれない) - off-vocal -",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/03_Otona_wa_Shinjitekurenai_(大人は信じてくれない)_-_off-vocal_-_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "大人は信じてくれない off vocal ver.",
+      "artist": "欅坂46",
+      "has_synced": true,
+      "path": "select/04_大人は信じてくれない_off_vocal_ver._欅坂46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "大人は信じてくれない",
+      "artist": "Sakurazaka46",
+      "has_synced": true,
+      "path": "select/05_大人は信じてくれない_Sakurazaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大人は信じてくれない",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_01_大人は信じてくれない_欅坂46.txt"
+    }
+  ]
+}
